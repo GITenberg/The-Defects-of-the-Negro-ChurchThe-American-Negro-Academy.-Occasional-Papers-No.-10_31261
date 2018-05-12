@@ -1,0 +1,31 @@
+_repo: The-Defects-of-the-Negro-ChurchThe-American-Negro-Academy.-Occasional-Papers-No.-10_31261
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Faduma, Orishatukeh
+    aliases:
+    - Davies, William James
+    - Davis, William J.
+    deathdate: 1946
+    gutenberg_agent_id: '35106'
+    url: http://www.gutenberg.org/2009/agents/35106
+description: ''
+gutenberg_issued: '2010-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31261'
+  lccn: 08018148
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American churches'
+- !lcc 'E151'
+title: 'The Defects of the Negro Church
+
+  The American Negro Academy. Occasional Papers No. 10'
+url: http://www.gutenberg.org/ebooks/31261
