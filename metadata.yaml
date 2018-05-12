@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35106'
     url: http://www.gutenberg.org/2009/agents/35106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31261#The-Defects-of-the-Negro-ChurchThe-American-Negro-Academy.-Occasional-Papers-No.-10
 gutenberg_issued: '2010-02-12'
 gutenberg_type: Text
 identifiers:
